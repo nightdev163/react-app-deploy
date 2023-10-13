@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nightdev163/react-app-deploy/static/css/main.073c9b0a.css",
-    "main.js": "/nightdev163/react-app-deploy/static/js/main.a9da454b.js",
-    "static/js/787.f3fff77e.chunk.js": "/nightdev163/react-app-deploy/static/js/787.f3fff77e.chunk.js",
-    "static/media/logo.svg": "/nightdev163/react-app-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/nightdev163/react-app-deploy/index.html",
-    "main.073c9b0a.css.map": "/nightdev163/react-app-deploy/static/css/main.073c9b0a.css.map",
-    "main.a9da454b.js.map": "/nightdev163/react-app-deploy/static/js/main.a9da454b.js.map",
-    "787.f3fff77e.chunk.js.map": "/nightdev163/react-app-deploy/static/js/787.f3fff77e.chunk.js.map"
+    "main.css": "/react-app-deploy/react-app-deploy/static/css/main.073c9b0a.css",
+    "main.js": "/react-app-deploy/react-app-deploy/static/js/main.03268217.js",
+    "static/js/787.f3fff77e.chunk.js": "/react-app-deploy/react-app-deploy/static/js/787.f3fff77e.chunk.js",
+    "static/media/logo.svg": "/react-app-deploy/react-app-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-app-deploy/react-app-deploy/index.html",
+    "main.073c9b0a.css.map": "/react-app-deploy/react-app-deploy/static/css/main.073c9b0a.css.map",
+    "main.03268217.js.map": "/react-app-deploy/react-app-deploy/static/js/main.03268217.js.map",
+    "787.f3fff77e.chunk.js.map": "/react-app-deploy/react-app-deploy/static/js/787.f3fff77e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a9da454b.js"
+    "static/js/main.03268217.js"
   ]
 }
